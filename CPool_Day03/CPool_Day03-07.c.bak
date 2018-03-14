@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+
+//Task 07
+int my_put_nbr(int nb)
+{
+	printf("%d",nb);
+}

@@ -1,4 +1,5 @@
-#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
 int my_strlen(char const *str);
 char *my_strcpy(char *dest,char const *src);
 char * my_strdup(const char *str)
